@@ -34,11 +34,11 @@ dif_cons_map <- ggplot(shp2024) +
   )
 
 ggsave(
-  filename = "/Users/alexander/Documents/benites-unsworth/figs/DIF_Cons_map.png", 
+  filename = "/Users/alexander/Documents/benites-unsworth/figs/DIF_Cons_map.jpeg", 
   plot = dif_cons_map,
   width = 8,
   height = 11,
-  dpi = 600
+  dpi = 300
 )
 
 
