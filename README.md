@@ -21,6 +21,6 @@ Raw datasets can be found here:
 <p align="center">
   <img src="https://github.com/Alexanderbenit7/ukge2024-fragmentation/blob/main/figs/DIF_Cons_map.jpeg?raw=true"
        alt="Absenteeism map"
-       width="600">
+       width="450">
 </p>
 
