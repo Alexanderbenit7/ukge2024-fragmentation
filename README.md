@@ -18,4 +18,9 @@ Raw datasets can be found here:
 - _2021 Census data at the constituency level_: <https://commonslibrary.parliament.uk/data/2021-census-results/>
 - _2016 EU referendum results_: <https://figshare.manchester.ac.uk/articles/dataset/2024_BES_Constituency_Results_with_Census_and_Candidate_Data/28430672>
 
+<p align="center">
+  <img src="https://github.com/Alexanderbenit7/ukge2024-fragmentation/blob/main/figs/DIF_Cons_map.jpeg?raw=true"
+       alt="Absenteeism map"
+       width="600">
+</p>
 
